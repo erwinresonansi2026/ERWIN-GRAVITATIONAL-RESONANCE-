@@ -31,7 +31,6 @@ Information Accessibility: NS mergers allow observation of internal structure; B
 
 Theory Validation: Observed ringdown patterns and phase coherence from LIGO/Virgo directly support predictions of our framework.
 
-Theory Strength: With these observational anchors, the framework remains strong (~94/100) and is further reinforced by the NS merger evidence.
 
 
 Conclusion:
